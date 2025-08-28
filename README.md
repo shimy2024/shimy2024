@@ -1,16 +1,15 @@
 ## Hi there 👋
 
 <!--
-**shimy2024/shimy2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ عني
+🔭 مهندسة أمن سيبراني متخصص في اختبار الاختراق وتحليل الثغرات.
+🌱 أتعلم الآن تقنيات Web Security 
+⚡ معلومة عني: أؤمن أن "الأمن ليس ميزة إضافية، بل جزء أساسي من أي نظام".
+🛠️ المهارات والتقنيات
+💻 لغات البرمجة: Python, Java, C++.
+🌐 اختبار الاختراق: OWASP, Burp Suite, Metasploit, Nmap, Wireshark, ZAP.
+🔒 الأمن السيبراني: Web Security, Mobile Security, Network Security, Vulnerability Management.
+☁️ التقنيات السحابية: AWS, Azure (أساسيات الأمن السحابي).
+⚙️ أدوات التطوير: Git, Linux, VS Code.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
